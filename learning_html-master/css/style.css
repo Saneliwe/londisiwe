@@ -1,0 +1,30 @@
+body{
+
+    background: linear-gradient(to bottom ,purple ,lightblue ,yellow )
+
+
+}
+
+h1{
+    color: dodgerblue;
+
+}
+h3{
+
+    background-color: wheat;
+}
+
+p{
+    font: size 30px ;
+    background-color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.font{
+
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background-color: darkviolet;
+}
